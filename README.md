@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rob-Lando
 - 👀 I’m interested in Sportsbetting, Fantasy Sports, Poker, Equity/Crypto Markets, Physics, Math, and Data Science!
-- 🌱 I’m currently learning Machine Learning & Data Engineering w/ Python and R
 - 📫 How to reach me roblando95@outlook.com
 
 <!---
