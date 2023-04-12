@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rob-Lando
-- 👀 I’m interested in Sportsbetting, Fantasy Sports, Poker, Equity/Crypto Markets, Physics, Math, and Data Science!
+- 👀 I’m interested in Ethereum, Poker, Equity/Crypto Markets, Physics, Math, and Data Science!
 - 📫 How to reach me roblando95@outlook.com
 
 <!---
